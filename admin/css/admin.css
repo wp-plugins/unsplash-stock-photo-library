@@ -127,7 +127,8 @@
          }
    
    /* Checkmark */
-   #usp_photos li .check{
+   #usp_photos li .check,
+   #usp_photos li .err{
       position: absolute;
       left: 10px;
       top: 10px;  
@@ -140,12 +141,21 @@
       background: #a984d3;
       box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
    }
-      #usp_photos li .check .fa{
+   #usp_photos li .err{
+      background-color: #dd4b4b;
+   }
+      #usp_photos li .check .fa,
+      #usp_photos li .err .fa{
          font-size: 18px;
          color: #4e265a;
-         line-height: 30px;
+         line-height: 29px;
          width: 100%;
          text-align: center;
+      }
+      #usp_photos li .err .fa{
+         color: #fff;
+         font-size: 19px;
+         line-height: 28px;
       }
    
    
