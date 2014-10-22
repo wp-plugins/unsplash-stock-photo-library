@@ -48,7 +48,9 @@ Yes, once clicked, the images are processed on the server then uploaded to the M
 
 = Are there server requirements? =
 
-Yes, this plugin needs to be able to write temporary images into wp-content/plugins/unsplash-stock-photo-library directory for image processing prior to being uploaded to the media library.
+Yes, this plugin needs to be able to write temporary images into wp-content/plugins/unsplash-stock-photo-library directory for image processing prior to being uploaded to the media library. 
+
+Some hosts lock down their servers and you may be required to update your php.ini or .htaccess in order to use this plugin
 
 
 == Installation ==
