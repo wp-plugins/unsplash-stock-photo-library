@@ -12,7 +12,7 @@ One click uploads of Unsplash Stock Photos directly to your media library.
 
 == Description ==
 
-Unsplash: Stock Photo Uploader is the fastest way to upload high quality stock photos from [unsplash.com](http://unsplash.com) directly to your media library — all without ever leaving WordPress! 
+**Unsplash: Stock Photo Library** is the fastest way to upload high quality stock photos from [unsplash.com](http://unsplash.com) directly to your media library — **all without ever leaving WordPress**! 
 
 
 = Features =
