@@ -776,6 +776,13 @@ a.button.thickbox.unsplash span{
 * @since 1.0
 */
 
+
+@media screen and (min-width: 1800px){
+   #usp_photos li{
+      width: 18%;
+   }
+}
+
 @media screen and (max-width: 900px){
   .cnkt-container .cnkt-main,
   .cnkt-container .cnkt-sidebar,
