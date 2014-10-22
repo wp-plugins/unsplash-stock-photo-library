@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-One click uploads of Unsplash Stock Photos directly to your media library.
+One click uploads of unsplash.com stock photos directly to your media library.
 
 == Description ==
 
