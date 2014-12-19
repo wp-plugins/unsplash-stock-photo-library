@@ -3,7 +3,7 @@ Contributors: dcooney
 Donate link: http://connekthq.com/donate/
 Tags: stock photo, photos, stock, upload, media library, media, library, ajax, image upload, direct upload, wp media uploader, free stock photos, unsplash, high res, high resolution
 Requires at least: 3.6
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
